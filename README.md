@@ -4,7 +4,7 @@ A map Application that you can use to organize and track your workouts, this APP
 
 Using `Html, CSS, javaScript, leafletjs library` to build this responsive website
 
-### Feauters:
+### Featuers:
 
 - Geolocation to display map at current location
 
