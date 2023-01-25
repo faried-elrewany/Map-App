@@ -18,4 +18,4 @@ Using `Html, CSS, javaScript, leafletjs library` to build this responsive websit
 - Move map to workout location on click
 
   ![Alt text](app-architecture/mapty-app.png)
-  #[LIVE DEMO](https://mapty-app-faried-elrewany.netlify.app/ "Mapty App")
+  [LIVE DEMO](https://mapty-app-faried-elrewany.netlify.app/ "Mapty App")
